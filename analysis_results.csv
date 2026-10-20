@@ -1,0 +1,11 @@
+Student_ID,Name,Python,Mathematics,English,Attendance,Average,Total,Result,Attendance Status
+101,Aman,85,90,78,95,84.33,253,Pass,Satisfactory Attendance
+102,Riya,92,88,91,98,90.33,271,Pass,Satisfactory Attendance
+103,Rohit,65,70,68,80,67.67,203,Pass,Satisfactory Attendance
+104,Priya,95,96,94,99,95.0,285,Pass,Satisfactory Attendance
+105,Rahul,45,55,60,65,53.33,160,Pass,Low Attendance
+106,Neha,88,92,85,93,88.33,265,Pass,Satisfactory Attendance
+107,Arjun,72,68,75,82,71.67,215,Pass,Satisfactory Attendance
+108,Anjali,90,85,89,96,88.0,264,Pass,Satisfactory Attendance
+109,Vikas,55,60,58,70,57.67,173,Pass,Low Attendance
+110,Simran,80,82,90,91,84.0,252,Pass,Satisfactory Attendance
